@@ -1,4 +1,14 @@
-Which columns have duplicate values across rows                                                
+Which columns have duplicate values across rows   
+
+github                                                                                         
+http://tinyurl.com/y3axr2qd                                                                    
+https://github.com/rogerjdeangelis/utl-which-columns-have-duplicate-values-across-rows         
+                                                                                               
+StackOverflow                                                                                  
+http://tinyurl.com/y5qcqqxz                                                                    
+https://stackoverflow.com/questions/55238236/sas-check-field-by-column-by-column               
+                                                                                               
+
                                                                                                
 *_                   _                                                                         
 (_)_ __  _ __  _   _| |_                                                                       
